@@ -1,0 +1,1 @@
+DBScan.jar calistirilabilir jar dosyasi"java -jar DBScan.jar"
